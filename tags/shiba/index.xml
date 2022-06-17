@@ -6,7 +6,16 @@
     <description>Recent content in Shiba on 4J部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 17 Jun 2022 10:00:00 +0800</lastBuildDate><atom:link href="https://chou4j.github.io/tags/shiba/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 12:00:00 +0800</lastBuildDate><atom:link href="https://chou4j.github.io/tags/shiba/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4J的第二篇文章</title>
+      <link>https://chou4j.github.io/blog/second-point/</link>
+      <pubDate>Fri, 17 Jun 2022 12:00:00 +0800</pubDate>
+      
+      <guid>https://chou4j.github.io/blog/second-point/</guid>
+      <description>我是第二篇文章</description>
+    </item>
+    
     <item>
       <title>4J的第一篇文章</title>
       <link>https://chou4j.github.io/blog/post-1/</link>
