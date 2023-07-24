@@ -2,31 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://chou4j.github.io/blog/post-5/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/blog/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/categories/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/tags/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/tags/trip/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/tags/%E5%A4%A7%E9%98%AA/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/tags/%E5%A4%A7%E9%98%AA%E5%9F%8E/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/tags/%E6%97%85%E9%81%8A/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://chou4j.github.io/categories/%E6%97%85%E9%81%8A%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-06-20T10:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://chou4j.github.io/blog/post-4/</loc>
     <lastmod>2023-06-19T10:00:00+08:00</lastmod>
   </url><url>
-    <loc>https://chou4j.github.io/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chou4j.github.io/blog/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chou4j.github.io/categories/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chou4j.github.io/tags/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chou4j.github.io/tags/trip/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
     <loc>https://chou4j.github.io/tags/%E5%A4%A7%E9%98%AA%E7%AB%99/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chou4j.github.io/tags/%E6%97%85%E9%81%8A/</loc>
-    <lastmod>2023-06-19T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://chou4j.github.io/categories/%E6%97%85%E9%81%8A%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2023-06-19T10:00:00+08:00</lastmod>
   </url><url>
     <loc>https://chou4j.github.io/tags/%E9%80%9A%E5%A4%A9%E9%96%A3/</loc>
